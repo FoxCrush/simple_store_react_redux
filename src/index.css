@@ -1,0 +1,18 @@
+@import "modern-normalize/modern-normalize.css";
+html {
+  height: 100%;
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  padding: 0px 0px 50px 0px;
+  margin: 0px;
+  background: #fffce597;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  min-height: 100%;
+  position: relative;
+}
+ul {
+  padding: 0px;
+}

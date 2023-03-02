@@ -1,7 +1,8 @@
+import "./index.css";
 import React from "react";
 import ReactDOM from "react-dom/client";
 import MainView from "./routes/main-view";
-import { createHashRouter, Outlet, RouterProvider } from "react-router-dom";
+import { createHashRouter, RouterProvider } from "react-router-dom";
 import About from "./routes/about-view";
 import ErrorPage from "./routes/error-page";
 import ShopContainer from "./components/shop-container";

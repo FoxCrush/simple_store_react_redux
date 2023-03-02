@@ -1,0 +1,12 @@
+.container {
+  position: sticky;
+  display: flex;
+  justify-content: space-around;
+}
+.navMenuList {
+  display: flex;
+}
+.navMenuItem {
+  list-style: none;
+  margin-left: 160px;
+}

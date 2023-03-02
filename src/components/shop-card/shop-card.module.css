@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  position: relative;
+  min-width: 300px;
+  height: 400px;
+  border: 1px solid grey;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}

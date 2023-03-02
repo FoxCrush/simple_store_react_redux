@@ -5,10 +5,10 @@ import { Outlet } from "react-router-dom";
 
 export default function MainView() {
   return (
-    <>
+    <div>
       <Header />
       <Outlet />
       <Footer />
-    </>
+    </div>
   );
 }
